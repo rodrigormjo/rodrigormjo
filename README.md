@@ -26,9 +26,6 @@ Se você gostar do meu trabalho entre em contato comigo por e-mail ou LinkedIn!
 :four_leaf_clover::four_leaf_clover::four_leaf_clover:<a href="http://rodrigormjo.github.io/">Pote de Ouro</a>:four_leaf_clover::four_leaf_clover::four_leaf_clover:
 </h2>
 
-- Minha primeira Github Page!
-- Projeto Testes em React (React Testing Library)(Trybe)
-
 ## :wrench: :hammer: :nut_and_bolt: Atualmente trabalhando em:
 
 - Minha primeira Github Page!
