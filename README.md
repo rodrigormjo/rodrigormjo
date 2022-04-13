@@ -21,6 +21,14 @@ Se você gostar do meu trabalho entre em contato comigo por e-mail ou LinkedIn!
 
 </br>
 
+## Portfólio: Visite minha Github Page!
+<h2 align="center">
+:four_leaf_clover::four_leaf_clover::four_leaf_clover:<a href="http://rodrigormjo.github.io/">Pote de Ouro</a>:four_leaf_clover::four_leaf_clover::four_leaf_clover:
+</h2>
+
+- Minha primeira Github Page!
+- Projeto Testes em React (React Testing Library)(Trybe)
+
 ## :wrench: :hammer: :nut_and_bolt: Atualmente trabalhando em:
 
 - Minha primeira Github Page!
@@ -28,8 +36,8 @@ Se você gostar do meu trabalho entre em contato comigo por e-mail ou LinkedIn!
 
 ## :book: Aprendendo novas habilidades:
 
-- React Testing Library
-- Redux
+- React contextAPI
+- React Hooks
 
 ## :briefcase: Habilidades Técnicas
 
@@ -37,7 +45,7 @@ Se você gostar do meu trabalho entre em contato comigo por e-mail ou LinkedIn!
 ![](https://img.shields.io/badge/Code-HTML6-informational?style=flat&logo=HTML6&color=E34F26)
 ![](https://img.shields.io/badge/Code-JavaScript_ES6-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-<!-- ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC) -->
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 <!-- ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57) -->
 
