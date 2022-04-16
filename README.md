@@ -28,8 +28,7 @@ Se você gostar do meu trabalho entre em contato comigo por e-mail ou LinkedIn!
 
 ## :wrench: :hammer: :nut_and_bolt: Atualmente trabalhando em:
 
-- Minha primeira Github Page!
-- Projeto TrybeWallet (Redux e React)(Trybe) - Refatorando
+- Minha primeira Github Page!(Pote de Ouro)
 - Projeto Star Wars(Context API e Hooks)(Trybe)
 
 ## :book: Aprendendo novas habilidades:
